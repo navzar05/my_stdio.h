@@ -1,5 +1,5 @@
------------------------------Implementare stdio.h-----------------------------
-------------------Descrierea pentru implementarea functiilor------------------
+# Implementare stdio.h
+## Descrierea pentru implementarea functiilor
 
 La baza implementarii, sta structura _so_file care are urmatoarea forma:
 
